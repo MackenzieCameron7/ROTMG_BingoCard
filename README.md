@@ -9,36 +9,36 @@ Check off filters of which items you would like to add to random generation, the
 It will generate a new bingo sheet on every click of the "Start" button. If you create a bingo sheet you
 like, then press the "Export as png" button to save the bingo sheet as a png with a name of your choice.
 
-##Filters
+## Filters
 
-###Untiered Equipment
+### Untiered Equipment
 Adds untiered items to the random generation pool.
 
-###Set tiered Equipment
+### Set tiered Equipment
 Adds set tiered items to the random generation pool.
 
-###Shiny (Alternate color Untiered Equipment)
+### Shiny (Alternate color Untiered Equipment)
 Adds the rarer shiny untiered items to the random generation pool.
 
-###Tiered
+### Tiered
 Adds tiered items to the random generation pool.
 
-###Any of a Tier
+### Any of a Tier
 Adds 6 items to the random generation pool. Any: T13, T14, T6 ring, T7 ring, T6 Ability, T7 Ability.
 
-###Free Middle
+### Free Middle
 Adds a whitebag to the middle of the bingo card no matter what. Acts as a wild card instead of a free space,
 as untiered items drop from whitebags. Helps Speed up the process.
 
-###Bag it Up
+### Bag it Up
 Adds 3(1 untiered bag, 1 set tiered bag, 1 high tiered bag) bags that will be added to the bingo card no matter
 what. Adds 3 spaces of wild cards of different types. Helps speed up the process significantly.
 
-###Any Shiny
+### Any Shiny
 Adds 1 widlcard space to count for any shiny untiered item. Will always be added no matter what. For those who
 want to include a shiny, without the tedium of getting specific shinies.
 
-##Known bugs/Not working features
+## Known bugs/Not working features
 - Program freezing. Usually due to not enough error checking during random generation when the sum f the options
   selected do not add up to at least 25 images to be randomized.
 - Features selected counter below the checklist does not update based on cheked boxes.
@@ -46,7 +46,7 @@ want to include a shiny, without the tedium of getting specific shinies.
   filter will add to generation
 - "Export as png" still contains application borders when saved.
 
-##Common Questions
+## Common Questions
 Q:Why can I get a bingo card with 4 realm event whites (much rarer items to acquire)? It would take me ages to complete.
 Q:Why can I get a bingo card with mostly shatters, moonlight vilage and oryx 3 items? It would be too hard.
 
