@@ -47,14 +47,15 @@ want to include a shiny, without the tedium of getting specific shinies.
 - "Export as png" still contains application borders when saved.
 
 ## Common Questions
-Q:Why can I get a bingo card with 4 realm event whites (much rarer items to acquire)? It would take me ages to complete.
-Q:Why can I get a bingo card with mostly shatters, moonlight vilage and oryx 3 items? It would be too hard.
+Q: Why can I get a bingo card with 4 realm event whites (much rarer items to acquire)? It would take me ages to complete.
 
-A:Just generate another. I usually like to open a discussion about the generated bingo card with friends. Sometimes
-items may be easier than usual to acquire in a timely fashion becasue of current events in the game. Sometimes an item
-may be harder or easier to acquire based on player skill. I know I still cannot make it past second boss in the 
-shatters dungeon, so I cannot get most of the items from that dungeon, whereas my friends can. On the matter of realm 
-event whites I feel like it may cause an issue. They are very rare and may lead to many a bingo card re-creation, 
-since they cannot be acquired in a timely fashion. Being able to filter out event whites and specific drops by dungeon
-would prove to fix this issue or tagging items and only allowing a certain amount of them per card generated. These 
-fixes would be for a future update.
+Q: Why can I get a bingo card with mostly shatters, moonlight vilage and oryx 3 items? It would be too hard.
+
+A: Just generate another. I usually like to open a discussion about the generated bingo card with friends. Sometimes
+ items may be easier than usual to acquire in a timely fashion becasue of current events in the game. Sometimes an item
+ may be harder or easier to acquire based on player skill. I know I still cannot make it past second boss in the 
+ shatters dungeon, so I cannot get most of the items from that dungeon, whereas my friends can. On the matter of realm 
+ event whites I feel like it may cause an issue. They are very rare and may lead to many a bingo card re-creation, 
+ since they cannot be acquired in a timely fashion. Being able to filter out event whites and specific drops by dungeon
+ would prove to fix this issue or tagging items and only allowing a certain amount of them per card generated. These 
+ fixes would be for a future update.
